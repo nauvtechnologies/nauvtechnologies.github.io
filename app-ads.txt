@@ -1,0 +1,2 @@
+google.com, pub-6977338434460530, DIRECT, f08c47fec0942fa0
+facebook.com, 204712533862276, DIRECT, c3e20eee3f780d68
