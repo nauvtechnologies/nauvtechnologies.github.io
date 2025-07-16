@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Homepage: Typically changes frequently and is high priority -->
+  <url>
+    <loc>https://www.nauv.com/index.html</loc>
+    <lastmod>2024-07-16T16:30:00+00:00</lastmod> <!-- Update to your actual last modification date -->
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Terms & Conditions Page: Less frequent changes, moderate priority -->
+  <url>
+    <loc>https://www.nauv.com/terms-conditions.html</loc>
+    <lastmod>2024-07-16T16:30:00+00:00</lastmod> <!-- Update to your actual last modification date -->
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Privacy Policy Page: Less frequent changes, moderate priority -->
+  <url>
+    <loc>https://www.nauv.com/privacy-policy.html</loc>
+    <lastmod>2024-07-16T16:30:00+00:00</lastmod> <!-- Update to your actual last modification date -->
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- NEW: Business Page -->
+  <url>
+    <loc>https://www.nauv.com/business.html</loc>
+    <lastmod>2024-07-16T16:30:00+00:00</lastmod> <!-- IMPORTANT: Update to actual last modification date -->
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- NEW: LPG Page -->
+  <url>
+    <loc>https://www.nauv.com/lpg.html</loc>
+    <lastmod>2024-07-16T16:30:00+00:00</lastmod> <!-- IMPORTANT: Update to actual last modification date -->
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- NEW: Safety Page -->
+  <url>
+    <loc>https://www.nauv.com/safety.html</loc>
+    <lastmod>2024-07-16T16:30:00+00:00</lastmod> <!-- IMPORTANT: Update to actual last modification date -->
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
