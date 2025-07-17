@@ -47,5 +47,13 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  
+  <!-- NEW: Contact Page -->
+  <url>
+    <loc>https://www.nauv.com/contact.html</loc>
+    <lastmod>2025-07-17T16:30:00+00:00</lastmod> <!-- IMPORTANT: Update to actual last modification date -->
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
 
 </urlset>
